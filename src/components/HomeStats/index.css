@@ -1,0 +1,114 @@
+.stats-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.confirm-text {
+  color: #ff073a;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+}
+
+.confirm-logo {
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+
+.confirm-number {
+  color: #ff073a;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 100% */
+}
+
+.active-text {
+  color: #007bff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+}
+
+.active-logo {
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+
+.active-number {
+  color: #007bff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 100% */
+}
+
+.recover-text {
+  color: #28a745;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+}
+
+.recover-logo {
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+
+.recover-number {
+  color: #28a745;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 100% */
+}
+
+.decease-text {
+  color: #6c757d;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+}
+
+.decease-logo {
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+
+.decease-number {
+  color: #6c757d;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 100% */
+}
